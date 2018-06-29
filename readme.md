@@ -1,4 +1,10 @@
-# Webpack react project
+# React Application project
+
+此專案為 Node.js 主從應用程式，其伺服器端使用 express.js 而客戶端使用 react.js。
+This project is an node.js client-server application, which server using express.js and client using react.js.
+
+其主要設計概念是利用 node.js 特性，發展跨平台的瀏覽器應用程式。
+The focus concept is using node.js feature to development a cross-platform browser application.
 
 ## § Library
 
@@ -8,14 +14,15 @@
 * [Node.js](https://nodejs.org/en/)
 * [Yarn for package management](https://yarnpkg.com/lang/en/)
 
+專案語言規範：
+* [ECMAScript 6.0 / Babel](https://babeljs.io/learn-es2015/)
+
 專案前端 (client)
 * [Webpack](https://webpack.js.org/)
 
 專案後端 (server)
-* [socket.io](https://socket.io/)
-
-專案語言規範：
-* [ECMAScript 6.0 / Babel](https://babeljs.io/learn-es2015/)
+* [Socket.io](https://socket.io/)
+* [Express.js](http://expressjs.com/)
 
 前端主框架
 * [React](https://facebook.github.io/react/)
