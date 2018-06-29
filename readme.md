@@ -1,9 +1,11 @@
 # React Application project
 
 此專案為 Node.js 主從應用程式，其伺服器端使用 express.js 而客戶端使用 react.js。
+
 This project is an node.js client-server application, which server using express.js and client using react.js.
 
 其主要設計概念是利用 node.js 特性，發展跨平台的瀏覽器應用程式。
+
 The focus concept is using node.js feature to development a cross-platform browser application.
 
 ## § Library
