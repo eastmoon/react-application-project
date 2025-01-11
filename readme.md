@@ -1,3 +1,5 @@
+**<font color=#FF0000>DEPRECATED</font>. New research goto [research-frontend-react-fw](https://github.com/eastmoon/research-frontend-react-fw).**
+
 # React Application project
 
 此專案為 Node.js 主從應用程式，其伺服器端使用 express.js 而客戶端使用 react.js。
